@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  font-size: 12px;
+}
+.content {
+  height: 40px;
+  display: block;
+}
+.amount {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+.info {
+  display: block;
+  font-size: 12px;
+  margin-top: 5px;
+}
