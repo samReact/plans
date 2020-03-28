@@ -1,16 +1,12 @@
-table {
+.table {
   border: 1px solid #ddd;
   border-collapse: collapse;
-}
-
-tr {
-  height: 40px;
+  width: 100%;
 }
 
 th,
 td {
-  padding: 10px;
-  text-align: center;
+  padding: 15px;
   border-right: 1px solid #eee;
-  width: 150px;
+  width: 25%;
 }
