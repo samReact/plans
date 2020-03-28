@@ -1,4 +1,4 @@
 import React from "react"
-import Table from "../components/table"
+import { Link } from "gatsby"
 
-export default () => <Table />
+export default () => <Link to="/EUR">Find All our Plans</Link>
