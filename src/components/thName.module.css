@@ -1,0 +1,23 @@
+.container {
+  text-transform: uppercase;
+  height: 60px;
+  color: #000;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100%;
+}
+
+.featured {
+  color: #9ac57e;
+  font-size: 10px;
+  margin: 0;
+  justify-self: flex-start;
+}
+
+.name {
+  margin: auto;
+}
