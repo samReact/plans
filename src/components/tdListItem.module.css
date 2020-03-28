@@ -1,0 +1,20 @@
+.container {
+  height: 10px;
+  padding: 0px;
+}
+
+.content {
+  display: flex;
+}
+
+.iconContainer {
+  margin: 0 10px 0 20px;
+}
+
+.icon {
+  height: 16px;
+  color: #666;
+}
+.text {
+  font-size: 12px;
+}
