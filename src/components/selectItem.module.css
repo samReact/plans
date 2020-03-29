@@ -1,0 +1,10 @@
+select {
+  width: 45%;
+  padding: 10px;
+  border: solid 1px #ddd;
+  line-height: 1;
+  border-radius: 5px;
+  height: 34px;
+  background: url(../../static/keyboard_arrow_down-24px.svg) no-repeat right;
+  -webkit-appearance: none;
+}
