@@ -5,13 +5,13 @@ import { SelectItem as SelectCycle } from "./selectItem"
 import styles from "./selectGroup.module.css"
 
 const currencies = [
-  { value: "/CHF", displayValue: "CHF switzerland francs" },
-  { value: "/USD", displayValue: "$ US Dollars" },
+  { value: "/CHF", displayValue: "CHF" },
+  { value: "/USD", displayValue: "$ USD" },
   { value: "/EUR", displayValue: "€ Euros" },
 ]
 
 const cycles = [
-  { value: "_1", displayValue: "monthly" },
+  { value: "_1", displayValue: "Monthly" },
   { value: "_12", displayValue: "Annually" },
   { value: "_24", displayValue: "2 years" },
 ]
