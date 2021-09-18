@@ -3,7 +3,7 @@
 ### Running the project
 
 1. Clone the repository
-   `git clone https://github.com/tifus69/plans.git`
+   `git clone https://github.com/samReact/plans.git`
 
 2. Go to the correct folder
    `cd plans`
